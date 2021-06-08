@@ -13,3 +13,5 @@ Sorting is the process of rearrangin the items in a collection (e.g. an array) s
 
 1. Sorting is an incredibly common task, so it's good to know how it works
 2. There are many different ways to sort things, and different techniques have their own advantages and disadvantages
+
+![alt text] (https://miro.medium.com/max/2048/1*bKZUD0XAHlIVXoZ171Jxwg.jpeg)
