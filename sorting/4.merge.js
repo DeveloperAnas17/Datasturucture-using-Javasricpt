@@ -49,3 +49,12 @@ function mergeSort(arr) {
 }
 
 console.log(mergeSort([4, 1, 3, 2, 8, 9, 7]));
+
+// Big O of Merge Sort
+
+// Time Complexity
+// Best: O(n log n)
+// Average: O(n log n)
+// Worst: O(n log n)
+
+// Space Complexity: O(n)
